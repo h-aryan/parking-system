@@ -13,7 +13,6 @@ function App() {
       <CarExit />
       <CarUpdate />
       <CarSearch />
-      <CarVerify />
     </div>
   );
 }
